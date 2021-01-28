@@ -1,4 +1,4 @@
-# rede-neural
+# Rede Neural - Perceptron
 Rede Neural utilizando perceptron de um neurónio. Objetivo é diagnosticar pacientes como doentes ou saudáveis com base nos sintomas informado como treinamento
 
 ## Get Started
